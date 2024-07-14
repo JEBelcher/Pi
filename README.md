@@ -10,3 +10,5 @@ Desktop-cpu-temp.py
 This is a version for the Pi Desktop
 While it displays the thermometer icon using Debian version: 11 Bullseye,
 Debian version: 12 Bookworm displays a generic icon.  Maybe this will be sorted soon.
+
+The PDF file gives more information.
