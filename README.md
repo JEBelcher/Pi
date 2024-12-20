@@ -1,5 +1,5 @@
 cpu-temp.py
-Uses a terminal session to provide temerature information
+Uses a terminal session to provide temperature information
 using the vcgencmd measure_temp function in a loop.
 
 This ties up a termianal session to constantly update the CPU temperature so you 
